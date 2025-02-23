@@ -1,7 +1,7 @@
-# New Saudi Riyal Symbol 
+# New Saudi Riyal Symbol 🇸🇦
 <img src="https://github.com/Mohamed-AbdulRaouf/SaudiRiyal/blob/master/SaudiRiyal/Screenshots/Screenshot03.png" alt="SF symbol for the Saudi Riyal">
 
-# Add a new SF symbol for the Saudi Riyal
+# Add a new SF symbol for the Saudi Riyal 🇸🇦
 
 
 # Screenshots
@@ -12,7 +12,7 @@
 The example with SwiftUI, but you can use it with storyboad also with UIImage(named: "Saudi_Riyal_Symbol") 
 
 
-# here the code with SwiftUI 
+# here the code with SwiftUI 🚀
 
 <details>
 <summary>Code With SwiftUI</summary>
@@ -47,7 +47,7 @@ struct ContentView: View {
 </details>
   
 
-# here the code with Swift 
+# here the code with Swift 🚀
 
 <details>
 <summary>Code With Swift</summary>
